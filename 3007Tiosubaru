@@ -978,3 +978,19 @@ http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fw
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://imgur.com/l97QVy2.png" group-title="Canais | FILMES E SÉRIE", Canal universal
 http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="NOTICIAS",Globo SP SD
+https://origin-02.nxplay.com.br/TV_TEM_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="NOTICIAS",Globo SP HD
+https://origin-02.nxplay.com.br/TV_TEM_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="NOTICIAS",Globo RJ
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="NOTICIAS",Globo MG
+http://168.205.87.198:8555/live/1499/123456/70.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO BA" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="NOTICIAS",Globo BA
+https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
